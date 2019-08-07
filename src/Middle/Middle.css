@@ -1,0 +1,20 @@
+.middleMain {
+    width: 50%;
+    height: 50vh;
+    background: #EBEBEB;
+    display: flex;
+}
+.middleData {
+    position: relative;
+    left: 20px;
+}
+.number {
+    font-size: 30px;
+    position: absolute;
+    right: 400px;
+    bottom: 550px;
+}
+h1 {
+    text-decoration: underline;
+    text-decoration-color: #45ABDC;
+}

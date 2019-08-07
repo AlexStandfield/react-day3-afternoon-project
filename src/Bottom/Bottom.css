@@ -1,0 +1,25 @@
+.divBottom { 
+    display: flex;
+    justify-content: space-evenly;
+}
+.buttonPrev {
+    position: relative;
+    left: 62px;
+    border: none;
+    color: white;
+    background: #222222;
+}
+.buttonNext{
+    position: relative;
+    right: 62px;
+    border: none;
+    color: white;
+    background: #222222;
+}
+.buttonM {
+    color: white;
+    background: #34A5DA;
+    border: none;
+    border-radius: 5px;
+
+}
